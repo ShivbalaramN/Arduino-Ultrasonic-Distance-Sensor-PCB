@@ -9,12 +9,16 @@ The system measures the distance between the sensor and an object and triggers a
 **⚙️ Features**
 
 Ultrasonic distance measurement
+
 LED indication for nearby objects
+
 Custom PCB designed in KiCad
+
 Simple and low-cost hardware implementation
+
 Beginner-friendly embedded system project
-**
-🧩 Components Used**
+
+**🧩 Components Used**
 
 Arduino Uno
 HC-SR04
@@ -35,6 +39,7 @@ LED                                    D7
 **🖥️ Software Used**
 
 KiCad – PCB design
+
 Arduino IDE – Code development
 
 **📂 Project Structure**
@@ -49,6 +54,9 @@ Arduino IDE – Code development
 
 **🚀 Applications**
 Obstacle detection
+
 Distance measurement systems
+
 Robotics projects
+
 Smart parking systems
